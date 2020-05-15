@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: Zack Chen
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: https://www.linkedin.com/in/thuta-aung-909a22114/
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -51,8 +51,10 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Bridge Burma
+    web_url: https://www.bridgeburma.com
+    image_url: https://drive.google.com/drive/folders/1HV7Eicta3IFFnIkUzs6yQaTtgFFl6RAE
 
   - name: Sass
-    web_url: https://github.com/topics/sass
+    web_url: https://www.mangareader.net
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
